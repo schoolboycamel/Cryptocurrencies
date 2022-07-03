@@ -17,9 +17,9 @@ The purpose of the analysis is to provide ***Accountability Accounting*** an inv
 
 ## Application 
 
-- Data Processing 
-- Principal Component Analysis (PCA)
-- Clustering Algorithms 
+- Data Processing : Selection, transformation, scaling
+- Principal Component Analysis (PCA) : statistical technique to speed up machine learning algorithms when the number of features is too high.
+- Clustering Algorithms: Applied the K means algorithm, which essentially groups similar datapoints together 
 - Visualization 
 
 ## Results 
